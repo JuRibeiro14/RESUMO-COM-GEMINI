@@ -1,0 +1,37 @@
+Resumo das respostas:
+
+Pergunta: O que é Java?
+Resposta: Resposta formatada:
+Resposta: Java é uma linguagem de programação de propósito geral, concorrente,
+orientada a objetos, que é projetada para ter poucas dependências de
+implementação. É uma linguagem popular e amplamente utilizada, conhecida por sua
+portabilidade, desempenho e segurança.  Java foi inicialmente desenvolvida pela
+Sun Microsystems e lançada em 1995.  A linguagem foi projetada para ser simples,
+segura e portátil.  Java é executada em uma máquina virtual (JVM), o que permite
+que o código seja executado em diferentes plataformas sem alterações.
+
+Pergunta: Como fazer miojo?
+Resposta: Resposta formatada:
+Resposta: Para fazer miojo você precisa: 1. Ferver água em uma panela. 2.
+Adicionar o macarrão ao caldo fervente. 3. Cozinhar o macarrão de acordo com as
+instruções da embalagem. 4. Adicionar os temperos e os condimentos que
+acompanham o miojo. 5. Misturar bem. 6. Servir quente.
+
+Pergunta: O que foi a Revolução Francesa
+Resposta: Resposta formatada:
+Resposta: A Revolução Francesa foi um período de ampla instabilidade social e
+violência política na França de 1787 a 1799 que resultou na monarquia francesa
+sendo substituída por uma república. Foi influenciada pelas ideias do
+Iluminismo, que enfatizavam a razão, os direitos individuais e o governo
+popular. A Revolução Francesa também foi alimentada pela crescente desigualdade
+social entre os ricos e os pobres, bem como por uma crise financeira que afligia
+o governo francês. A Revolução Francesa começou com a tomada da Bastilha, uma
+prisão real, em 14 de julho de 1789. Este evento marcou o início de um período
+de grande violência e mudança política. O Rei Luís XVI foi executado em 1793, e
+a França foi governada por uma série de regimes diferentes antes de Napoleão
+Bonaparte tomar o poder em 1799. A Revolução Francesa teve um impacto profundo
+na história da França e do mundo. Ela levou ao fim da monarquia e ao
+estabelecimento de uma república, e inspirou revoluções em outras partes da
+Europa e do mundo. A Revolução Francesa também ajudou a espalhar as ideias do
+Iluminismo e os direitos humanos em todo o mundo.
+
